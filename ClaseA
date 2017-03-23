@@ -1,0 +1,8 @@
+public class ClaseA{
+  private int x;
+  
+  public ClaseA(){
+  
+  
+  }
+}
